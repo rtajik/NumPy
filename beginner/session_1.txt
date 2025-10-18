@@ -1,0 +1,14 @@
+# NumPy Tutorial - Session 1 (Beginner Level)
+
+This repository contains the first session of my beginner-friendly NumPy tutorial series. In this session, I covered:
+
+- The difference between a vector (1D array) and a matrix (2D array)
+- Creating matrices and tensors using NumPy
+- Using `.shape`, `.size`, and `.ndim`
+- Array operations such as `concatenate`, `hstack`, and `vstack`
+- A short introduction to broadcasting and slicing
+- Working with `numpy.random` to generate random arrays
+- Performing basic operations like `min` and `max`
+- Normalizing a random 3x4 matrix
+
+More sessions will be added soon as I continue building this learning series.
