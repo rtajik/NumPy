@@ -1,0 +1,20 @@
+### Dependencies for this Repository Functionality  ###
+###                                                 ###
+### To install, run:                                ###
+###        pip install -r requirements.txt          ###
+###                                                 ###
+#######################################################
+
+opencv-python
+opencv-contrib-python
+numpy
+matplotlib
+pandas
+plotly
+seaborn
+scipy
+scikit-learn
+tensorflow
+xgboost
+lightgbm
+category_encoders
